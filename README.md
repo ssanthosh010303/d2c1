@@ -238,4 +238,4 @@ It is similar to `git log` but then it only logs the changes made to the pointer
 
 ## Next Document
 
-[Example: Rebasing a Single Branch](.\git-operations\rebase-single.md)
+[Example: Rebasing a Single Branch](./git-operations/rebase-single.md)
